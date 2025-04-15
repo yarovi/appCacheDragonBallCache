@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: appDragonBallZ
+  data:
+    redis:
+      host: redis-13033.c253.us-central1-1.gce.redns.redis-cloud.com
+      port: 13033
+      username: yami
+      password: L1br3123.
+
+
+app:
+  api:
+    base-url: https://dragonball-api.com/api/characters
+    redis-host: redis-13033.c253.us-central1-1.gce.redns.redis-cloud.com:13033
